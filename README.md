@@ -69,6 +69,8 @@ not reduce loop diameter less than 1 cm).
 ▪ Plot a graph of the received signal amplitude versus the loop diameter.
 # TABULATION:
 <img width="1600" height="1557" alt="image" src="https://github.com/user-attachments/assets/094c25f5-bf8f-43d6-81c4-bc024f04fc1a" />
+
+
 # CALCULATION:
 <img width="1374" height="1600" alt="image" src="https://github.com/user-attachments/assets/18122c4d-cb44-4f19-9c72-2bbaa650ba7d" />
 
